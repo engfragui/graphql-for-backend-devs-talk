@@ -1,6 +1,6 @@
-## Slides for my talk "A GraphQL guide for backend developers"
+# Slides for my talk "A GraphQL guide for backend developers"
 
-# Talk abstract
+## Talk abstract
 
 There’s a lot of information out there about GraphQL, and most of it focuses on the benefits that this technology brings to developers building web and mobile applications.
 
