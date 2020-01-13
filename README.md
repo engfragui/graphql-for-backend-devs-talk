@@ -1,5 +1,7 @@
 # A GraphQL guide for backend developers
 
+Slides presented at the SFNode meetup in March 2019.
+
 ## Talk abstract
 
 There’s a lot of information out there about GraphQL, and most of it focuses on the benefits that this technology brings to developers building web and mobile applications.
