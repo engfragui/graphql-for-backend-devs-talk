@@ -11,3 +11,7 @@ But wait. What about backend developers? How do things look from their perspecti
 In this talk, I would like to illustrate some of the benefits (and the not-so-good parts) of GraphQL from the perspective of a backend developer like myself, and also share some of the lessons and best practices I’ve learned while working with GraphQL.
 
 At the end, you’ll want to try GraphQL out if you haven’t done so already, and you’ll also be able to convince your backend developer friends to do the same!
+
+## Notes
+
+You can also read more about my talk [here](https://www.netlify.com/blog/2020/01/21/advice-from-a-graphql-expert/).
